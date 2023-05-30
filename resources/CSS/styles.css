@@ -22,14 +22,14 @@ button {
   text-decoration: none;
   box-shadow: 0px 5px;
 }
- 
+
+button:hover {
+  cursor: pointer;
+  background-color: #000000;
+}
+  
 button:active {
   margin-top: 5px;
   color: white;
   box-shadow: 0px 0px;
 }
-button:hover {
-  cursor: pointer;
-  background-color: #000000;
-}
- 
