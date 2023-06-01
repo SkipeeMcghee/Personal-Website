@@ -41,6 +41,11 @@ button:active {
 
 }
 
+nav {
+  display:flex;
+  justify-content: start;
+}
+
 nav a {
   cursor: pointer;
   border-radius: 5px;
