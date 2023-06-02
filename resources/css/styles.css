@@ -43,7 +43,7 @@ button:active {
 
 nav {
   display:flex;
-  justify-content: start;
+  justify-content: left;
 }
 
 nav a {
